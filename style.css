@@ -10,3 +10,8 @@ body {
 .front-primary {
   color: #00abae;
 }
+
+.title-icon {
+  font-size: 19px;
+  font-weight: bold;
+}
