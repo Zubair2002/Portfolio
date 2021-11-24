@@ -5,9 +5,9 @@ COMMOM
 **************/
 
 body {
-  font-family: "monospace", sana-serif;
+  font-family: "monospace";
 }
-span.front-primary {
+.font-primary {
   color: #00abae;
 }
 
@@ -71,6 +71,9 @@ About
 #about .icons {
   margin-top: 20px;
   font-size: 30px;
+}
+#about .icons a {
+  color: black;
 }
 
 /*********************
